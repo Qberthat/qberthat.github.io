@@ -4,7 +4,7 @@ title: Google
 subtitle: My own visual recreation
 comments: true  
 tags: [google]
-output: html_document
+image: /img/index.html
 ---
 
-<<insertHtml:[./_site/assets/css/index.html]>>
+click me!
