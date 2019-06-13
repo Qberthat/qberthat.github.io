@@ -4,7 +4,7 @@ title: Google
 subtitle: My own visual recreation
 comments: true  
 tags: [google]
-image: /img/index.html
+
 ---
 
-click me!
+[click me!](https://github.com/Qberthat/qberthat.github.io/blob/master/img/index.html)
