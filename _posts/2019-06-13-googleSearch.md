@@ -6,4 +6,4 @@ comments: true
 tags: [google]
 ---
 
-Test
+Test of the latest addition of blogs, please work
