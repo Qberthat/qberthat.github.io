@@ -6,4 +6,4 @@ comments: true
 tags: [google]
 ---
 
-Test of the latest addition of blogs, please work
+(Click me!)[/site/assets/css/index.html]
