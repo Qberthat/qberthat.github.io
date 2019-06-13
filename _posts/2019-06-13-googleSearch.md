@@ -6,4 +6,4 @@ comments: true
 tags: [google]
 ---
 
-(Click me!)[/site/assets/css/index.html]
+Click me!
